@@ -1,0 +1,17 @@
+{
+    "name": "restart-router",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node_modules/.bin/nightwatch --config nightwatch.conf.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chromedriver": "^2.41.0",
+        "geckodriver": "^1.12.2",
+        "nightwatch": "^0.9.21",
+        "selenium-server-standalone": "^2.53.1"
+    }
+}
