@@ -1,5 +1,6 @@
 # Restart Linksys EA2700 Router
 <img src='https://officedepot.scene7.com/is/image/officedepot/210634_p_C_EA2700_front_edge?id=0ssrv1&fmt=jpg&fit=constrain,1&wid=450&hei=287&op_sharpen=1&qlt=95'>
+
 ## Description
 Restarts Linksys EA2700 router programmatically from your computer. As long as your computer is connected to your wifi, this app will programmatically restart(reboot) it.
 
