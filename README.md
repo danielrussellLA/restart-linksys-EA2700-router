@@ -15,10 +15,9 @@ Restarts Linksys EA2700 router programmatically from your computer. As long as y
 ```PASSWORD=yourWifiPassword URL=yourRouterUrl npm start```
 
 ## Usage
+```PASSWORD='yourWifiPassword' URL='http://10.245.141.131' npm start```
 params:
 ```
-PASSWORD - your wifi password as you would normally enter it
-URL - the ip address (url) for your router network. To find this, go to OpenNetworkPreferences > Advanced > TCP/IP > copy your router IP address. Your entry for this variable should look something like 'http://10.245.141.131'.
+PASSWORD (required) - your wifi password as you would normally enter it
+URL (required) - the ip address (url) for your router network. To find this, go to OpenNetworkPreferences > Advanced > TCP/IP > copy your router IP address. Your entry for this variable should look something like 'http://10.245.141.131'.
 ```
-
-```PASSWORD='yourWifiPassword' URL='http://10.245.141.131' npm start```
