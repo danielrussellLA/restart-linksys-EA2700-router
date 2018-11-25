@@ -9,8 +9,8 @@ Restarts Linksys EA2700 router programmatically from your computer. As long as y
 ```git clone https://github.com/danielrussellLA/restart-linksys-EA2700-router.git```
 2. cd into the repo
 ```cd restart-linksys-EA2700-router```
-3. install dependencies (you need nodejs installed on your computer). to download, you can `brew install node` on a mac, or on windows, download node from their website https://nodejs.org
-```npm i```
+3. install dependencies with `npm i` 
+(you need nodejs installed on your computer. to download, you can `brew install node` on a mac, or on windows, download node from their website https://nodejs.org)
 4. run the app
 ```PASSWORD=yourWifiPassword URL=yourRouterUrl npm start```
 
