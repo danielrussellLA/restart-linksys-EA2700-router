@@ -8,7 +8,7 @@ Restarts Linksys EA2700 router programmatically from your computer. As long as y
 1. clone down this repo
 ```git clone https://github.com/danielrussellLA/restart-linksys-EA2700-router.git```
 2. cd into the repo
-```cd restart-linksys-EA2700-router.git```
+```cd restart-linksys-EA2700-router```
 3. install dependencies (you need nodejs installed on your computer). to download, you can `brew install node` on a mac, or on windows, download node from their website https://nodejs.org
 ```npm i```
 4. run the app
